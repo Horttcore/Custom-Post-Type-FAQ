@@ -64,10 +64,23 @@ final class Custom_Post_Type_FAQ
 				'edit_item' => __( 'Edit FAQ', 'custom-post-type-faq' ),
 				'new_item' => __( 'New FAQ', 'custom-post-type-faq' ),
 				'view_item' => __( 'View FAQ', 'custom-post-type-faq' ),
+				'view_items' => __('View FAQ'),
 				'search_items' => __( 'Search FAQ', 'custom-post-type-faq' ),
 				'not_found' =>  __( 'No FAQ found', 'custom-post-type-faq' ),
 				'not_found_in_trash' => __( 'No FAQ found in Trash', 'custom-post-type-faq' ),
-				'parent_item_colon' => '',
+				'parent_item_colon' => __('Parent FAQ:', 'custom-post-type-faq' ),
+				'all_items' => __( 'All FAQ', 'custom-post-type-faq' ),
+				'archives' => __( 'FAQ Archive', 'custom-post-type-faq' ),
+				'attributes' => __( 'FAQ Attributes', 'custom-post-type-faq' ),
+				'insert_into_item' => __( 'Insert into faq', 'custom-post-type-faq' ),
+				'uploaded_to_this_item' => __( 'Uploaded to this faq', 'custom-post-type-faq' ),
+				'featured_image' => __( 'Featured Image', 'custom-post-type-faq' ),
+				'set_featured_image' => __( 'Set featured image', 'custom-post-type-faq' ),
+				'remove_featured_image' => __( 'Remove featured image', 'custom-post-type-faq' ),
+				'use_featured_image' => __( 'Use as featured image', 'custom-post-type-faq' ),
+				'filter_items_list' => __( 'Filter faq list', 'custom-post-type-faq' ),
+				'items_list_navigation' => __( 'FAQ list navigation', 'custom-post-type-faq' ),
+				'items_list' => __( 'FAQ list', 'custom-post-type-faq' ),
 				'menu_name' => __( 'FAQ', 'custom-post-type-faq' )
 			),
 			'public' => TRUE,
@@ -81,7 +94,7 @@ final class Custom_Post_Type_FAQ
 			'hierarchical' => TRUE,
 			'menu_position' => NULL,
 			'supports' => array('title', 'editor', 'thumbnail', 'page-attributes' ),
-			'menu_icon' => 'dashicons_lightbulb'
+			'menu_icon' => 'dashicons-lightbulb'
 		) );
 
 	} // END register_post_type

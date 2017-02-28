@@ -1,0 +1,224 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-28 14:20+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: classes/class.custom-post-type-faq.admin.php:46
+#: classes/class.custom-post-type-faq.admin.php:49
+msgid "FAQ updated."
+msgstr ""
+
+#. %s: date and time of the revision
+#: classes/class.custom-post-type-faq.admin.php:51
+#, php-format
+msgid "FAQ restored to revision from %s"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.admin.php:52
+msgid "FAQ published."
+msgstr ""
+
+#: classes/class.custom-post-type-faq.admin.php:53
+msgid "FAQ saved."
+msgstr ""
+
+#: classes/class.custom-post-type-faq.admin.php:54
+msgid "FAQ submitted."
+msgstr ""
+
+#: classes/class.custom-post-type-faq.admin.php:55
+#, php-format
+msgid "FAQ scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: classes/class.custom-post-type-faq.admin.php:55
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.admin.php:56
+msgid "FAQ draft updated."
+msgstr ""
+
+#: classes/class.custom-post-type-faq.admin.php:64
+#: classes/class.custom-post-type-faq.php:66
+msgid "View FAQ"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.admin.php:70
+msgid "Preview faq"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.php:60
+msgctxt "post type general name"
+msgid "FAQ"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.php:61
+msgctxt "post type singular name"
+msgid "FAQ"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.php:62
+msgctxt "FAQ"
+msgid "Add New"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.php:63
+msgid "Add New FAQ"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.php:64
+msgid "Edit FAQ"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.php:65
+msgid "New FAQ"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.php:68
+msgid "Search FAQ"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.php:69
+msgid "No FAQ found"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.php:70
+msgid "No FAQ found in Trash"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.php:71
+msgid "Parent FAQ:"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.php:72
+msgid "All FAQ"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.php:73
+msgid "FAQ Archive"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.php:74
+msgid "FAQ Attributes"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.php:75
+msgid "Insert into faq"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.php:76
+msgid "Uploaded to this faq"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.php:77
+msgid "Featured Image"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.php:78
+msgid "Set featured image"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.php:79
+msgid "Remove featured image"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.php:80
+msgid "Use as featured image"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.php:81
+msgid "Filter faq list"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.php:82
+msgid "FAQ list navigation"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.php:83
+msgid "FAQ list"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.php:84
+msgid "FAQ"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.php:91
+msgctxt "Post Type Slug"
+msgid "faq"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.php:118
+msgctxt "taxonomy general name"
+msgid "FAQ Categories"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.php:119
+msgctxt "taxonomy singular name"
+msgid "FAQ Category"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.php:120
+msgid "Search FAQ Categories"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.php:121
+msgid "All FAQ Categories"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.php:122
+msgid "Parent FAQ Category"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.php:123
+msgid "Parent FAQ Category:"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.php:124
+msgid "Edit FAQ Category"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.php:125
+msgid "Update FAQ Category"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.php:126
+msgid "Add New FAQ Category"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.php:127
+msgid "New FAQ Category Name"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.php:128
+msgid "FAQ Categories"
+msgstr ""
+
+#: classes/class.custom-post-type-faq.php:132
+msgctxt "Slug"
+msgid "faq-category"
+msgstr ""
+
+#. Name of the plugin
+#. Description of the plugin
+msgid "Custom Post Type FAQ"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://horttcore.de"
+msgstr ""
+
+#. Author of the plugin
+msgid "Ralf Hortt"
+msgstr ""
